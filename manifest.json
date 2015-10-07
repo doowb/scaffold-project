@@ -1,0 +1,23 @@
+{
+  "name": "scaffold-project",
+  "description": "Sample project scaffold.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/doowb/scaffold-project",
+  "repository": "doowb/scaffold-project",
+  "authors": [
+    {
+      "author": "Brian Woodward (https://github.com/doowb)"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "scaffold-assemblefile": "doowb/scaffold-assemblefile",
+    "scaffold-gulpfile": "doowb/scaffold-gulpfile",
+    "scaffold-verbmd": "doowb/scaffold-verbmd",
+    "scaffold-docs": "doowb/scaffold-docs",
+    "scaffold-tests": "doowb/scaffold-tests"
+  },
+  "targets": {},
+  "config": {},
+  "isMetadata": true
+}
